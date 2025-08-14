@@ -1,0 +1,3 @@
+# Eksempel
+https://example.com/fil1.zip
+https://example.com/billede.jpg
